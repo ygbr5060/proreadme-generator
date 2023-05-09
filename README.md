@@ -29,4 +29,4 @@ link to project
 
 github: https://github.com/ygbr5060/proreadme-generator.git
 
-link to video submission: 
+link to video submission: https://drive.google.com/file/d/1VAmovLogH3b0hZnOBTw137GxSn_rX1hP/view?usp=share_link
